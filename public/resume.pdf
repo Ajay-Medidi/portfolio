@@ -1,0 +1,148 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1000
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(AJAY MEDIDI) Tj
+0 -30 Td
+/F1 14 Tf
+(Full Stack Developer | Cloud Enthusiast | AI Explorer) Tj
+0 -20 Td
+(Kattamuru, Andhra Pradesh, India) Tj
+0 -15 Td
+(Email: ajaym14355@gmail.com | Phone: +91 7997914353) Tj
+0 -15 Td
+(GitHub: github.com/Ajay-Medidi | LinkedIn: linkedin.com/in/ajay-medidi-42a7942b1) Tj
+
+0 -40 Td
+/F1 18 Tf
+(EDUCATION) Tj
+0 -25 Td
+/F1 12 Tf
+(B.Tech, Computer Science Engineering) Tj
+0 -15 Td
+(SRKR Engineering College, Bhimavaram | CGPA: 7.92 | 2022-2026) Tj
+0 -15 Td
+(Intermediate, MPC | Tirumala Jr College | 95.2% | 2020-2022) Tj
+0 -15 Td
+(SSC | Trinity High School | CGPA: 10.00 | 2019-2020) Tj
+
+0 -30 Td
+/F1 18 Tf
+(EXPERIENCE) Tj
+0 -25 Td
+/F1 12 Tf
+(NIELIT-AWS Intern | Jun 2024 - Aug 2024) Tj
+0 -15 Td
+(- Gained hands-on experience in EC2, S3, VPC while designing a static blogging platform) Tj
+0 -15 Td
+(EduSkills Web Full Stack Developer Intern | Oct 2024 - Dec 2024) Tj
+0 -15 Td
+(- Built dynamic full-stack apps using HTML, CSS, JS, Node.js, MongoDB with auth and routing) Tj
+
+0 -30 Td
+/F1 18 Tf
+(PROJECTS) Tj
+0 -25 Td
+/F1 12 Tf
+(Python AI Bot Assistant) Tj
+0 -15 Td
+(- Intelligent conversational AI bot with NLP, voice recognition, and task automation) Tj
+0 -15 Td
+(SmartQuiz | Event Management Portal | Blogging Platform (AWS)) Tj
+
+0 -30 Td
+/F1 18 Tf
+(SKILLS) Tj
+0 -25 Td
+/F1 12 Tf
+(Languages: Python, Java, JavaScript, C++, C) Tj
+0 -15 Td
+(Frontend: HTML, CSS, Bootstrap, Tailwind, ReactJS) Tj
+0 -15 Td
+(Backend: Node.js, Express | Database: SQL, MongoDB) Tj
+0 -15 Td
+(Other: Git, REST API, JWT, Data Structures, Algorithms) Tj
+
+0 -30 Td
+/F1 18 Tf
+(CERTIFICATIONS) Tj
+0 -25 Td
+/F1 12 Tf
+(- Virtual Internship in Cloud Computing (NIELIT)) Tj
+0 -15 Td
+(- Web Full Stack Developer Internship (EduSkills)) Tj
+0 -15 Td
+(- TCS iON Career Edge - Young Professional) Tj
+0 -15 Td
+(- Internship in Data Science & Generative AI (MNK TechFocus)) Tj
+
+0 -30 Td
+/F1 18 Tf
+(ACHIEVEMENTS) Tj
+0 -25 Td
+/F1 12 Tf
+(- Smart India Hackathon 2023 - Shortlisted) Tj
+0 -15 Td
+(- 24-hour Internal Hackathon Participant (Sep 2023)) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001326 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1404
+%%EOF
